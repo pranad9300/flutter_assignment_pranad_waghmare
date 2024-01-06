@@ -69,4 +69,4 @@ To test the login functionality, you can create your own user account on the app
 
 ## Video Demo
 
-Check out a video demonstration of the app on [YouTube](your_youtube_video_url).
+Check out a video demonstration of the app on [VideoLink](https://drive.google.com/file/d/1fLsjmnYCDOCgmF_qGeZ-3DZQegeI_2EF/view?usp=sharing).
