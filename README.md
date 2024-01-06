@@ -1,6 +1,6 @@
-# Your Flutter Project Name
+# flutter_assignment_pranad_waghmare
 
-Short description or introduction of your Flutter project.
+Follow the below steps to run the app.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
