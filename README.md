@@ -33,7 +33,7 @@ Follow the below steps to run the app.
 1. Navigate to the project directory:
 
     ```bash
-    cd your_flutter_project
+    cd flutter_assignment_pranad
     ```
 
 2. Run the following command to install the project dependencies:
