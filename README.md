@@ -8,8 +8,6 @@ Short description or introduction of your Flutter project.
   - [Install Project Packages](#install-project-packages)
   - [Run the Project](#run-the-project)
 - [Video Demo](#video-demo)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -64,11 +62,3 @@ Short description or introduction of your Flutter project.
 ## Video Demo
 
 Check out a video demonstration of the app on [YouTube](your_youtube_video_url).
-
-## Contributing
-
-If you'd like to contribute to this project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
