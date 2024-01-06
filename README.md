@@ -7,6 +7,7 @@ Follow the below steps to run the app.
   - [Clone the Repository](#clone-the-repository)
   - [Install Project Packages](#install-project-packages)
   - [Run the Project](#run-the-project)
+  - [Testing Login](#testing-login)
 - [Video Demo](#video-demo)
 
 ## Getting Started
@@ -56,6 +57,15 @@ Follow the below steps to run the app.
     ```
 
     This command will build and run the Flutter app on the connected device.
+   
+### Testing Login
+
+To test the login functionality, you can create your own user account on the app:
+
+1. Open the app on your device/emulator.
+
+2. login to the app by providing a this email address : test@test.com  and password : test@123.
+
 
 ## Video Demo
 
